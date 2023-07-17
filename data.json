@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "email": "khushigyl06@gmail.com",
+      "mob": "7877713695",
+      "name": "khushi goyal",
+      "password": "1234",
+      "Conf_password": "1234",
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "mob": "8018179227",
+      "name": "ADMIN",
+      "password": "7890",
+      "Conf_password": "7890",
+      "id": 2
+    }
+  ],
+  "donors": [
+    {
+      "name": "khushi goyal",
+      "email": "khushigyl06@gmail.com",
+      "phone": "7877713695",
+      "city": "rkl",
+      "gender": "female",
+      "dob": "2005-05-31",
+      "bg": "A+",
+      "donatebef": "no",
+      "disease": "no",
+      "id": 1
+    }
+  ],
+  "reciever": [
+    {
+      "name": "khushi goyal",
+      "email": "khushigyl06@gmail.com",
+      "phone": "7877713695",
+      "gender": "female",
+      "dob": "2005-05-31",
+      "bg": "A+",
+      "hospital": "IGH",
+      "ward": "general",
+      "record": "7658",
+      "id": 1
+    }
+  ],
+  "Rsignin": [
+    {
+      "email": "khushigyl06@gmail.com",
+      "mob": "7877713695",
+      "name": "khushi goyal",
+      "password": "1234",
+      "Conf_password": "1234",
+      "id": 1
+    }
+  ]
+}
