@@ -23,3 +23,9 @@ Welcome to our blood donation organization, where we are dedicated
             
 ![Screenshot (30)](https://github.com/khushigyl/JS_Project/assets/138769263/d634fe38-51c2-4b62-8c5f-04886fd4f349)
 
+![Screenshot (31)](https://github.com/khushigyl/JS_Project/assets/138769263/52c350c0-5866-4209-8864-bdaef761f2c5)
+
+![Screenshot (32)](https://github.com/khushigyl/JS_Project/assets/138769263/74eca7b4-fefa-4e15-8f74-475601cca877)
+
+![Screenshot (33)](https://github.com/khushigyl/JS_Project/assets/138769263/c75977eb-8c58-45ec-8685-2fcc231f7ecb)
+
