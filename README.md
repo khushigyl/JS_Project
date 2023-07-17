@@ -20,3 +20,6 @@ Welcome to our blood donation organization, where we are dedicated
             Together, with the support of our selfless donors and committed
             staff, we strive to make a lasting impact on the lives of those in
             need, one donation at a time.
+            
+![Screenshot (30)](https://github.com/khushigyl/JS_Project/assets/138769263/d634fe38-51c2-4b62-8c5f-04886fd4f349)
+
